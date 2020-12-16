@@ -29,7 +29,7 @@ url_agfs_teselas <-
   "https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_parches_esenciales_importantes_bosque_san_jose/FeatureServer/0"
 
 url_agfs_rutas <-
-  "https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_bripario_san_jose/FeatureServer/0"
+  "https://services9.arcgis.com/RrvMEynxDB8hycVO/arcgis/rest/services/gam_conectividad_rutas_conectividad_bosque_san_jose/FeatureServer/0"
 
 #--------------- Objetos sf y raster ---------------
 
